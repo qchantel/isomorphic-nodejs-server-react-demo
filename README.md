@@ -7,7 +7,7 @@ On further actions and navigation, the client side code is executed like on a cl
 ## how to use
 - `npm install`
 - `npm run build` for building the react app
-- `nodemon server/index.js` for starting the server
+- `npm start` for starting the server
 
 ## how to fetch data when I need to pre-render?
 You can fetch any data you need before the pre-render in `server.js` file.
