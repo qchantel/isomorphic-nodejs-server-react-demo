@@ -2,7 +2,7 @@ A basic isomorphic app with React.
 
 On the first request, the server sends pre-rendered html and the client side code along. 
 
-On further actions and navigation, the client side code is executed like on a classic CSR SPA app.
+On further actions and navigation, the client side code is executed like on a classic CSR SPA.
 
 ## how to use
 - `npm install`
